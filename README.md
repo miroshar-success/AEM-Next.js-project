@@ -1,2 +1,3 @@
-# AEM-Next.js-project
-This is simple app for AEM/Next.js
+# WKND NextJS Template App
+
+This sample app has moved to https://github.com/adobe/aem-nextjs-template.
